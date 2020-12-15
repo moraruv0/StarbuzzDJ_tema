@@ -1,0 +1,23 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+h1{
+    color: rgb(57, 179, 166);
+}
+span{
+    font-weight: bold;
+}
+div{
+    position: absolute;
+    padding: 2em 5em;
+    transform: rotate(-15deg);
+    position: relative;
+    width: 50em;
+    top: 25vh;
+    left: 26vw;
+    box-shadow: 5px 5px 5px #888888,-5px -5px 5px #888888;
+    border-style:solid;
+    border-color: rgb(0, 0, 0);
+    background-color: white;
+}
